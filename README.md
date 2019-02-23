@@ -42,3 +42,7 @@ Criei então uma variável que guardasse a função de soma:
 	}
 	
 Dentro do arquivo javascript nesse repositório, resolvi fazer também uma função que recebesse 3 argumentos: dois números e mais um número ou array. A função usa os dois primeiros argumentos pra criar um array de números no intervalo entre eles e o terceiro argumento como múltiplo ou um array de múltiplos e realizar a soma dos múltiplo(s) do(s) número(s) fornecido(s) dentro do terceiro arguentom dentro do intervalo entre os números fornecidos no primeiro e segundo argumentos.
+
+Para uma visualização rápida, fiz um js fiddle: https://jsfiddle.net/predopredo/aksg0cmj/
+
+Fiz também uma versão mais complexa que usa um formulário para o usuário definir os múltiplos e o intervalo (usei o que tenho aprendido no Angular). link para o repositório: https://github.com/predopredo/numbersForm  e fiz também um stackBlitz para visualização rápida https://stackblitz.com/edit/angular-1y9mp9 (ou https://angular-1y9mp9.stackblitz.io para abrir só o app direto de qualquer device)
