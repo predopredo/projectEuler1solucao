@@ -1,0 +1,13 @@
+.display,
+.display2 {
+  font-family: sans-serif;
+}
+
+.small {
+  font-size: 12px;
+  margin-top: -15px;
+}
+
+a {
+  text-decoration: none;
+}
