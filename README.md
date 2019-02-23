@@ -45,4 +45,4 @@ Dentro do arquivo javascript nesse repositório, resolvi fazer também uma funç
 
 Para uma visualização rápida, fiz um js fiddle: https://jsfiddle.net/predopredo/aksg0cmj/
 
-Fiz também uma versão mais complexa que usa um formulário para o usuário definir os múltiplos e o intervalo (usei o que tenho aprendido no Angular). link para o repositório: https://github.com/predopredo/numbersForm  e fiz também um stackBlitz para visualização rápida https://stackblitz.com/edit/angular-1y9mp9 (ou https://angular-1y9mp9.stackblitz.io para abrir só o app direto de qualquer device)
+Fiz também uma versão mais complexa que usa um formulário para o usuário definir os múltiplos e o intervalo (usei o que tenho aprendido no Angular). link para o repositório: https://github.com/predopredo/numbersForm  e fiz também um stackBlitz para visualização rápida https://stackblitz.com/edit/angular-1y9mp9 (ou https://angular-1y9mp9.stackblitz.io para abrir só o app direto de qualquer device).
